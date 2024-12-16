@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: paleturquoise;
+
+}
+.ortavoy{
+    width: 90%; 
+    height: 300vh;
+    margin: 5%;
+    margin-top: -0px;
+}
+h2{
+    text-align: center;
+    color: black;
+    opacity: 20%;
+    font-weight: 900;   
+}
+h3{
+    color: blue;
+    font-weight: 900;
+}
